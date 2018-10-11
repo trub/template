@@ -1,0 +1,32 @@
+.btn {
+  border-radius: 30px;
+}
+
+.btn-shadow {
+  box-shadow: -10px 21px 30px 0px rgba(158, 158, 158, 0.3);
+}
+
+.card {
+  box-shadow: -10px 21px 30px 0px rgba(158, 158, 158, 0.3);
+}
+
+body {
+    padding-top: 54px;
+    font-family: "Raleway", sans-serif;
+  }
+
+header .welcome {
+    margin-top: 3em;
+  }
+  
+@media (min-width: 992px) {
+    body {
+      padding-top: 56px;
+    }
+  }
+  
+  
+  
+  /*!
+   * Copyright 2018 Trilogy Education
+   */
